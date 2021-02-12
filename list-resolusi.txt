@@ -3,3 +3,5 @@ Resolusi puspita:
 2.ngumpulin portofolio
 3.ngasah javascript
 4.belajar vue
+5. belajar babel
+6.belajar vuex nuxt node
