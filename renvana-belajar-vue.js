@@ -4,7 +4,8 @@ a. syntax
 b. webpack
 c. npm
 -react
--next.js
+
+d. ajax
 -vue cli
 -Vuex
 
