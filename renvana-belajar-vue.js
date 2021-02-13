@@ -3,6 +3,7 @@ Rencana belajar Vuejs
 a. syntax
 b. webpack
 c. npm
+d. ajax
 -vue cli
 -Vuex
 
